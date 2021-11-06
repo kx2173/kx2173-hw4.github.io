@@ -13,9 +13,11 @@ navbar:
       href: http://github.com/kx2173
     - icon: fa-twitter fa-lg
       href: https://twitter.com/keee_xu
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/ke-xu-7999381b9/
     - icon: fa-phone fa-lg 
       href: tel:"646-705-7097"
 output:
   html_document:
-    theme: cerulean
+    theme: sandstone
     
