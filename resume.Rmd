@@ -6,8 +6,8 @@ output:
     toc_float: true
     theme: sandstone
 ---
-![]<img src="images/resume1.jpg" style="width:100%">
-![]<img src="images/resume2.jpg" style="width:100%">
-![]<img src="images/resume3.jpg" style="width:100%">
+## Academic and career experience
+<embed src="Resume_KeXu.pdf" width="800px" height="2100px" />
 
+## Back
 Back to [home page](index.html)
