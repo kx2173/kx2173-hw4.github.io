@@ -1,0 +1,12 @@
+---
+title: "Ke's first website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+## Resume
+
+xfun::embed_files('Resume_KeXu.pdf')

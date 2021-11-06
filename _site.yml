@@ -11,6 +11,10 @@ navbar:
       href: mailto:<kexu.2173@gmail.com>
     - icon: fa-github fa-lg
       href: http://github.com/kx2173
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/keee_xu
+    - icon: fa-phone fa-lg 
+      href: tel:"646-705-7097"
 output:
   html_document:
     theme: cerulean
