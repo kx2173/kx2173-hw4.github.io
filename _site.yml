@@ -1,0 +1,17 @@
+name: "website bar"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "Resume"
+      href: resume.html
+    - text: "Dashboard"
+      href: dashboard.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<kexu.2173@gmail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/kx2173
+output:
+  html_document:
+    theme: cerulean
+    
