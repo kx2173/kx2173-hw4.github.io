@@ -1,12 +1,13 @@
 ---
-title: "Resume"
+title: "Academic and career experience"
 output: 
   html_document:
     toc: true
     toc_float: true
     theme: sandstone
 ---
-## Academic and career experience
+
+## Resume
 <embed src="Resume_KeXu.pdf" width="800px" height="2100px" />
 
 ## Back
