@@ -8,7 +8,7 @@ output:
 ---
 
 ## Resume
-<embed src="Resume_KeXu.pdf" width="800px" height="2100px" />
+<embed src="Resume_KeXu.pdf" width="800px" height="3400px" />
 
 ## Back
 Back to [home page](index.html)
